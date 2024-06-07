@@ -1,0 +1,42 @@
+.Movies{
+    color: #e5e5e5;
+    padding: 70px 40px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 2em;
+
+    & .searchContainer{
+        padding: 4px 12px;
+        border-radius: 30px;
+        background-color: #141414;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+
+        & input{
+            width: 100%;
+            border: none;
+            outline: none;
+            background-color: transparent;
+            color: #d7d7d7;
+        }
+    }
+
+    & .moviesSection{
+        display: flex;
+        flex-direction: column;
+
+        & .title{
+            color: #d9d9d9;
+        }
+
+        & .movieCardContainer{
+            margin-top: 20px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 2em;
+            justify-content: center;
+        }
+    }
+}
