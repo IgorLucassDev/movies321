@@ -1,6 +1,7 @@
 # Movies321
 
- ![Github Model (Copy)](https://github.com/IgorLucassDev/movies321/assets/62673756/c0ae1ee3-2e3c-47d6-9c07-64f9aeaf8fa4)
+![Image](https://github.com/IgorLucassDev/movies321/assets/62673756/cff1973b-86fc-4e8e-94e2-cf4bfb8d47b6)
+
 
 
  ## Movie app made with react.
