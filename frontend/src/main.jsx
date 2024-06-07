@@ -11,6 +11,7 @@ import {
 // Router Components
 import Home from './routes/home/Home';
 import Movies from './routes/movies/Movies';
+import About from './routes/about/About';
 
 const router = createBrowserRouter([
   {
@@ -24,6 +25,10 @@ const router = createBrowserRouter([
       {
         path: 'movies',
         element: <Movies/>
+      },
+      {
+        path: 'about',
+        element: <About/>
       }
     ]
   }
