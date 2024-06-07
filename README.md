@@ -2,6 +2,8 @@
 
 ![Image](https://github.com/IgorLucassDev/movies321/assets/62673756/cff1973b-86fc-4e8e-94e2-cf4bfb8d47b6)
 
+Preview: https://movies321.vercel.app/
+
 
 
  ## Movie app made with react.
